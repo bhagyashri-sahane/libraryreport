@@ -1,0 +1,65 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Key Features}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Need for System}{2}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Analysis}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Existing System}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Proposed System}{3}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Description}{4}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Information Gathering}{5}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Information Gathering Techniques}{5}{subsection.2.4.1}%
+\contentsline {section}{\numberline {2.5}Feasibility Study}{6}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Operational Feasibility}{6}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Technical Feasibility}{7}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Economical Feasibility}{7}{subsection.2.5.3}%
+\contentsline {section}{\numberline {2.6}Software and Hardware Requirements}{8}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Hardware Requirements}{8}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Software Requirements}{9}{subsection.2.6.2}%
+\contentsline {section}{\numberline {2.7}Scope of Project}{10}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}Future Scope}{10}{subsection.2.7.1}%
+\contentsline {chapter}{\numberline {3}System Design}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Data Flow Diagram}{11}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}First Level DFD}{12}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Second Level DFD}{13}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Entity Relationship Diagram}{14}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Sequence Diagram}{15}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Database Design}{16}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Implementation}{17}{chapter.4}%
+\contentsline {subsubsection}{Waterfall Model}{17}{section*.4}%
+\contentsline {subsubsection}{Agile Model}{18}{section*.5}%
+\contentsline {section}{\numberline {4.1}User Interface}{20}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Admin Interface}{27}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Technologies Used}{36}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Front End}{36}{subsection.4.3.1}%
+\contentsline {subsubsection}{HTML}{36}{section*.6}%
+\contentsline {subsubsection}{JavaScript}{36}{section*.7}%
+\contentsline {subsubsection}{CSS}{37}{section*.8}%
+\contentsline {subsection}{\numberline {4.3.2}Backend}{38}{subsection.4.3.2}%
+\contentsline {subsubsection}{Python}{38}{section*.9}%
+\contentsline {subsubsection}{Django}{38}{section*.10}%
+\contentsline {subsubsection}{SQLite}{40}{section*.11}%
+\contentsline {subsection}{\numberline {4.3.3}Development Tools Used}{41}{subsection.4.3.3}%
+\contentsline {subsubsection}{Visual Studio Code}{41}{section*.12}%
+\contentsline {subsubsection}{Visual Paradigm}{41}{section*.13}%
+\contentsline {subsubsection}{LaTex}{42}{section*.14}%
+\contentsline {subsubsection}{Chrome Browser}{43}{section*.15}%
+\contentsline {section}{\numberline {4.4}Coding}{44}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Genre Table Code}{44}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Language Table Code}{45}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Book Table Code}{46}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}BookInstance Table Code}{47}{subsection.4.4.4}%
+\contentsline {subsection}{\numberline {4.4.5}Author Table Code}{48}{subsection.4.4.5}%
+\contentsline {chapter}{\numberline {5}Performance Evaluation}{49}{chapter.5}%
+\contentsline {section}{\numberline {5.1}System Testing}{50}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Black Box Testing}{51}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Types of Black Box Testing}{52}{subsection.5.2.1}%
+\contentsline {section}{\numberline {5.3}Testing Strategy}{52}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Test Strategy Document}{53}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Unit Testing}{54}{subsection.5.3.2}%
+\contentsline {subsubsection}{unittest — Unit testing framework}{54}{section*.16}%
+\contentsline {subsubsection}{pytest - Another Unit testing framework}{54}{section*.17}%
+\contentsline {subsection}{\numberline {5.3.3}Unit Test for Use Cases}{55}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}Integration Testing}{67}{subsection.5.3.4}%
+\contentsline {subsubsection}{Approach}{67}{section*.18}%
+\contentsline {chapter}{\numberline {6}Conclusion and Future Work}{68}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Future Scope}{68}{section.6.1}%
+\contentsline {chapter}{References}{69}{section*.19}%
